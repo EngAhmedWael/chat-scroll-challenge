@@ -30,6 +30,26 @@ Your solution will be scored primarily on how closely it matches the reference. 
 4. Update this README with:
    - The UX issues you identified and fixed.
    - Your deployed URL.
-   - A screen recording demonstrating each fix.
+   - Include screen recordings for all five scenarios and the deployed URL below.
 5. Add **IMan-admin** as a collaborator to your private repo.
 6. Send us the link to your repo.
+
+
+### Deployed URL
+
+[Live Demo](https://your-deployed-url.com)
+
+### Screen Recordings
+
+- **Scenario 1 (Basic Auto-Scroll):** [Watch Recording](https://your-recording/scenario1)
+- **Scenario 2 (Pause on Manual Scroll):** [Watch Recording](https://your-hrecording/scenario2)
+- **Scenario 3 (Send While Scrolled Up):** [Watch Recording](https://your-recording/scenario3)
+- **Scenario 4 (Resume Auto-Scroll After Scroll Down):** [Watch Recording](https://your-recording/scenario4)
+ 
+
+## Evaluation Criteria
+
+- Does each scenario work correctly in isolation?
+- Do all four scenarios work together without regressions?
+- Does the behavior match the reference demo?
+- Is the code clean, testable, and well-separated?
