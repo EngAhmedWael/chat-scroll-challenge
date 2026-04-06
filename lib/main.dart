@@ -1,6 +1,5 @@
+import 'package:chat/GeminiChatScreen.dart';
 import 'package:flutter/material.dart';
-
-import 'gemini_chat_screen.dart';
 
 void main() {
   runApp(const ChatScrollChallenge());
@@ -25,6 +24,7 @@ class ChatScrollChallenge extends StatelessWidget {
           brightness: Brightness.dark,
         ),
       ),
+      debugShowCheckedModeBanner: false,
       home: const ApiKeyScreen(),
     );
   }
